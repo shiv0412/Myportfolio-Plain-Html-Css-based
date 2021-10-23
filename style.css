@@ -412,11 +412,17 @@ padding-left: 0px;
 	.flipcont_2{
 		margin-top:150px;
 	}
+	.flipcont_3{
+		margin-top:80px;
+	}
 }
 
 @media (max-width: 767px){
 		.flipcont_2{
 		margin-top:50px;
+	}
+	.flipcont_3{
+		margin-top:80px;
 	}
 	.header{
 		padding: 45px;
